@@ -1,0 +1,19 @@
+{
+  "name": "v-select-box-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.2",
+    "parcel-bundler": "^1.12.4",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "dependencies": {
+    "v-select-box": "^2.3.2",
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.4"
+  }
+}
